@@ -10,6 +10,7 @@ public class HelloTest {
         System.out.println("why is it working.its in gitignore");
 
         System.out.println("githup repo is already ready");
+        System.out.println("commit");
     }
 
 
